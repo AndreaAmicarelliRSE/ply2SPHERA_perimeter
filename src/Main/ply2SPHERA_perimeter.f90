@@ -1,7 +1,7 @@
 !-------------------------------------------------------------------------------
-! "ply2SPHERA_perimeter v.1.0" 
+! "ply2SPHERA_perimeter v.2.0" 
 ! Copyright 2016 (RSE SpA)
-! "ply2SPHERA_perimeter v.1.0" authors and email contact are provided on 
+! "ply2SPHERA_perimeter v.2.0" authors and email contact are provided on 
 ! the documentation file.
 ! This program is free software: you can redistribute it and/or modify
 ! it under the terms of the GNU General Public License as published by
