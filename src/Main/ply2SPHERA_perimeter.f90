@@ -67,7 +67,7 @@ if (read_stat/=0) then
 endif
 read(14,*,IOSTAT=read_stat) ply_file_name
 if (read_stat/=0) then
-   write(0,*) "Error in reading the second line of ply2SPHERA_perimeter.inp. ",&
+   write(0,*) "Error in reading the third line of ply2SPHERA_perimeter.inp. ",&
       "The program stops here. "
    stop
 endif
