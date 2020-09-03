@@ -1,6 +1,6 @@
 !-------------------------------------------------------------------------------
 ! "ply2SPHERA_perimeter v.2.0" 
-! Copyright 2016-2018 (RSE SpA)
+! Copyright 2016-2020 (RSE SpA)
 ! "ply2SPHERA_perimeter v.2.0" authors and email contact are provided on 
 ! the documentation file.
 ! This program is free software: you can redistribute it and/or modify
@@ -172,4 +172,3 @@ close(13)
 !------------------------
 return
 end program ply2SPHERA_perimeter
-
