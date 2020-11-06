@@ -170,5 +170,4 @@ close(13)
 !------------------------
 ! Deallocations
 !------------------------
-return
 end program ply2SPHERA_perimeter
